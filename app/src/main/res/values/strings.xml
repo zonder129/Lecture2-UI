@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lecture2-UI</string>
+    <string name="inflater_title">Inflater</string>
+    <string name="programmatically_title">Programmatically</string>
+</resources>
